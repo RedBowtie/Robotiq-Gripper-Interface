@@ -1,7 +1,7 @@
 # This class provides a Python API to control the Robotiq 2F-85 gripper
 # using the TCP/IP protocol.
 
-# Copyright (c) 2025 Annie Huang, Jiacheng Li. All rights reserved.
+# Copyright (c) 2025 Jiacheng Li, Annie Huang. All rights reserved.
 
 import socket
 import time

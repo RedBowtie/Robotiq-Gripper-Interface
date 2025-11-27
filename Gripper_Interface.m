@@ -1,7 +1,7 @@
 % Class Gripper_interface provides Matlab API to which controls the Robotiq
 % F2-85 gripper with TCP/IP protocal
 
-% Copyright (c) 2025 Annie Huang, Jiacheng Li. All rights reserved. 
+% Copyright (c) 2025 Jiacheng Li, Annie Huang. All rights reserved. 
 
 classdef Gripper_Interface < handle
     properties (Access = private)
